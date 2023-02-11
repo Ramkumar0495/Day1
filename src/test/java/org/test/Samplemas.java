@@ -13,5 +13,19 @@ public class Samplemas {
 		System.out.println("chennai");
 
 	}
+	
+	private void team() {
+		System.out.println("USA");
 
+	}
+	
+	private void team1() {
+		System.out.println("India");
+
+	}
+	
+	private void team2() {
+		System.out.println("Canada");
+
+}
 }
