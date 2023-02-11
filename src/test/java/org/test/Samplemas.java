@@ -14,16 +14,44 @@ public class Samplemas {
 
 	}//sri
 	
-	private void tamilnadu() {
-		System.out.println("tamil");
+	
+
+	private void team1() {
+		System.out.println("team1");
 
 	}
-	private void kerala() {
-	System.out.println("malaiyalam");
+	private void team2() {
+		System.out.println("team2");
 
 	}
-	private void karnataka() {
-		System.out.println("karnataka");
-		}
+	private void team3() {
+		System.out.println("team3");
+
+	}
+	private void team() {
+		System.out.println("USA");
+
+	}
+	
+	private void team1() {
+		System.out.println("India");
+
+	}
+	
+	private void team2() {
+		System.out.println("Canada");
+
+}private void tamilnadu() {
+	System.out.println("tamil");
+
+}
+private void kerala() {
+System.out.println("malaiyalam");
+
+}
+private void karnataka() {
+	System.out.println("karnataka");
+	}
+
 
 }
